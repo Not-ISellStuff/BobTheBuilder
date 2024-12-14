@@ -1,0 +1,8 @@
+{
+    "api-1": "https://pornhub.com/login",
+    "good-1": "valid_account",
+    "bad-1": "invalid_account",
+    "user-field": "username_",
+    "password-field": "password_",
+    "name": "PornhubChecker"
+}
