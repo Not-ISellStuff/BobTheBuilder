@@ -32,6 +32,7 @@ Alright so if you read the whole paragraph I wrote, you can NOT make checker's f
 Yes very shitty but In the Future I will make this tool better I made this in like less than 4 hours so I didn't actually add much stuff next update I'll add more features.
 
 **Dev: ISellStuff**
+
 **So some of you might have some questions or need help my discord is isell_termed if you want to add me I accept all friend requests**
 
 # Showcase
