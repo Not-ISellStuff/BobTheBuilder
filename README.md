@@ -40,3 +40,9 @@ Yes very shitty but In the Future I will make this tool better I made this in li
 ![image](https://github.com/user-attachments/assets/3d18b145-5bc4-47db-ba9c-79ec56a6c82a)
 
 ![image](https://github.com/user-attachments/assets/abbbc854-3d13-40b2-87b3-695e6354bdbc)
+
+![image](https://github.com/user-attachments/assets/fc3975a6-bbf5-4410-a9a8-9e0d8806f65f)
+
+![image](https://github.com/user-attachments/assets/eec1770e-a852-4570-9e91-0ee9d20fd1f5)
+
+![image](https://github.com/user-attachments/assets/a103e3ee-6558-47b6-9b11-852454de1cf6)
